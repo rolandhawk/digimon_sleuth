@@ -84,7 +84,7 @@ class SearchPath
 
   def traverse(queue, options, path)
     options.each do |option|
-      add(next_queue, option, path) if allowed?(option)
+      add(queue, option, path) if allowed?(option)
     end
   end
 end
