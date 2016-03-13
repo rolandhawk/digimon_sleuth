@@ -1,0 +1,25 @@
+#! /usr/bin/env ruby
+
+require_relative "digimon.rb"
+require_relative "errors.rb"
+require_relative "init.rb"
+
+while (command = gets&.strip).downcase != "exit"
+  begin
+    command, args = command.split(' ', 2)
+    args = args.downcase
+
+    case command.downcase
+    when "path"
+      paths = SearchPath.execute(args)
+      puts "Found #{paths.count} paths:"
+      puts paths
+    when "class"
+      puts Digimon.find(args).klass
+    else
+      puts "Unknown command '#{command}'"
+    end
+  rescue DigimonError => e
+    puts e.message
+  end
+end
