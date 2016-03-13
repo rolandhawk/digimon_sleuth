@@ -40,7 +40,7 @@ Digimon.all.each do |digimon|
       digi = Digimon.find(d.strip)
       digimon.add_digivolve(digi)
       digi.add_dedigivolve(digimon)
-    rescue DigimonNotFound
+    rescue DigimonNotFoundError
       puts "Data corrupt for '#{digimon.name}' digivolved to '#{d}'"
     end
   end

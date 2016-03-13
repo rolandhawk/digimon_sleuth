@@ -1,6 +1,7 @@
 #! /usr/bin/env ruby
 
 require 'digimon_sleuth'
+#require_relative '../lib/digimon_sleuth.rb'
 
 while (command = gets&.strip).downcase != "exit"
   begin
