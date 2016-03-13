@@ -35,4 +35,8 @@ class Digimon
   def add_dedigivolve(digimon)
     @dedigivolve << digimon
   end
+
+  def inspect
+    "#{name} (#{klass})"
+  end
 end

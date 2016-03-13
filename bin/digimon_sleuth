@@ -1,8 +1,6 @@
 #! /usr/bin/env ruby
 
-require_relative "digimon.rb"
-require_relative "errors.rb"
-require_relative "init.rb"
+require 'digimon_sleuth'
 
 while (command = gets&.strip).downcase != "exit"
   begin
@@ -11,7 +9,7 @@ while (command = gets&.strip).downcase != "exit"
 
     case command.downcase
     when "path"
-      paths = SearchPath.execute(args)
+      paths = DigimonService::SearchPath.execute(args)
       puts "Found #{paths.count} paths:"
       puts paths
     when "class"

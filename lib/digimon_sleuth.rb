@@ -1,4 +1,6 @@
-require_relative "services/search_path.rb"
+require 'digimon/digimon.rb'
+require 'digimon/errors.rb'
+require 'services/search_path.rb'
 
 def klass(counter)
   if counter <= 5
@@ -17,7 +19,7 @@ def klass(counter)
 end
 
 counter = 1
-file = File.new("digivolve.dat", "r")
+file = File.new(File.expand_path('../../dat/digivolve.dat', __FILE__), 'r')
 divolve = {}
 while (line = file.gets&.strip)
   name, digivolve = line.split(" -> ")
