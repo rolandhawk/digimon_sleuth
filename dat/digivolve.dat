@@ -3,7 +3,7 @@ Pabumon -> Motimon, Yokomon, Tanemon
 Punimon -> Nyaromon, Tsunomon
 Botamon -> Koromon, Wanyamon
 Poyomon -> Bukamon, Tokomon
-Koromon -> Agumon, ???, Guilmon, ToyAgumon
+Koromon -> Agumon, Hackmon, Guilmon, ToyAgumon
 Tanemon -> Lalamon, Palmon, Renamon
 Tsunomon -> Gabumon, Goblimon, Veemon, Gabumon(Blk)
 Tsumemon -> Keramon, DemiDevimon, Agumon(Blk)
@@ -32,44 +32,44 @@ Goblimon -> GaoGamon, Growlmon, Nanimon, Ogremon, Greymon(Blue)
 Gomamon -> Ankylomon, Ikkakumon, Socerimon, Frigimon
 Syakomon -> Ikkakumon, ShellNumemon, Gekomon, Seadramon
 Solarmon -> Clockmon, Geremon, Starmon, Meramon
-Terriermon -> Gargomon, Ikkakumon, Gatomon, ???
+Terriermon -> Gargomon, Ikkakumon, Gatomon, Rapidmon(Armor)
 Tentomon -> Kabuterimon, Waspmon, Kuwagamon, Stingmon, Sunflowmon
 ToyAgumon -> Clockmon, Greymon, Guardromon, Sukamon, Starmon
 Dorumon -> Cyclonemon, Dorugamon, Guardromon, Waspmon
 Hagurumon -> Clockmon, GoldNumemon, Guardromon, Starmon, PlatinumSukamon
 Patamon -> Angemon, Birdramon, Reppamon, Gatomon, ExVeemon
-???
+Hackmon -> Jesmon, Greymon, GeoGreymon, PlatinumSukamon
 Palmon -> Kuwagamon, Togemon, Vegiemon, Vegiemon, Sunflowmon
 DemiDevimon -> Bakemon, Devimon, Kyubimon, Kurisarimon, IceDevimon
 Biyomon -> Kabuterimon, Aquilamon, Birdramon, Kyubimon
 Falcomon -> Stingmon, ExVeemon, Aquilamon, Peckmon
-Veemon -> ???, ???, Veedramon, ExVeemon
+Veemon -> Flamedramon, Magnamon, Veedramon, ExVeemon
 Salamon -> Frigimon, Reppamon, Gatomon, Veedramon, Socerimon
 Betamon -> Gekomon, Numemon, Seadramon, ShellNumemon, Vegiemon
 Hawkmon -> Meramon, Aquilamon, Birdramon, Peckmon
 Lalamon -> Sunflowmon, Togemon, Vegiemon, Woodmon
-Lucemon -> Angemon, Devimon
+Lucemon -> Angemon, Devimon, Lucemon FM
 Renamon -> BlackGatomon, Garurumon, Kyubimon, Woodmon
 Lopmon -> Gargomon, Devimon, BlackGatomon, Wizardmon
 Wormmon -> Waspmon, Kabuterimon, Kuwagamon, Stingmon, IceDevimon
 IceDevimon -> Myotismon, Cherrymon, LadyDevimon
-Aquilamon -> AeroVeedramon, Garudamon, ???, Crowmon
-Ankylomon -> MagnaAngemon, Meteormon, ???, SkullGreymon
+Aquilamon -> AeroVeedramon, Garudamon, Silphymon, Crowmon
+Ankylomon -> MagnaAngemon, Meteormon, Shakkoumon, SkullGreymon
 Ikkakumon -> MachGaogamon, Whamon, Zudomon
-Wizardmon -> ???, Myotismon, Wisemon
+Wizardmon -> SkullMeramon, Myotismon, Wisemon
 Woodmon -> Cherrymon, Pumpkinmon, Taomon
 ExVeemon -> MagnaAngemon, Paildramon, RizeGreymon
-Angemon -> Garudamon, MagnaAngemon, ???
-Ogremon -> ???, ???, WereGarurumon
+Angemon -> Garudamon, MagnaAngemon, Shakkoumon
+Ogremon -> SkullMeramon, Digitamamon, WereGarurumon
 Guardromon -> Andromon, GrapLeomon, MetalMamemon, Datamon
 GaoGamon -> GrapLeomon, MachGaogamon, WereGarurumon
 Kabuterimon -> MegaKabuterimon, Cherrymon, Lilamon
 ShellNumemon -> BlackKingNumemon, MegaSeadramon, ShogunGekomon
-Gargomon -> WarGrowlmon, ???, Rapidmon
+Gargomon -> WarGrowlmon, Antylamon, Rapidmon
 Garurumon -> DoruGreymon, Panjyamon, WereGarurumon, Zudomon
 Garurumon(Blk) -> WereGarurumon(Blk), BlueMeramon, MachGaogamon
 Kyubimon -> LadyDevimon, Monzaemon, Taomon
-Growlmon -> ???, WarGrowlmon, MetalGreymon, MetalTyrannomon
+Growlmon -> Gigadramon, WarGrowlmon, MetalGreymon, MetalTyrannomon
 Kurisarimon -> Cyberdramon, Infermon, Taomon
 Greymon -> MetalGreymon, MetalGreymon(Blue), Megadramon, SkullGreymon
 Greymon(Blue) -> MetalGreymon(Blue), Knightmon, DoruGreymon
@@ -81,169 +81,169 @@ GoldNumemon -> Vademon, PlatinumNumemon, BlackKingNumemon
 Cyclonemon -> Megadramon, DoruGreymon, Datamon
 Sunflowmon -> Angewomon, Lilamon, Lillymon
 Seadramon -> ShogunGekomon, MegaSeadramon, Whamon
-GeoGreymon -> ???, RizeGreymon, SkullGreymon
+GeoGreymon -> Gigadramon, RizeGreymon, SkullGreymon
 Sukamon -> SuperStarmon, Etemon, Vademon
 Starmon -> Mamemon, MetalMamemon, SuperStarmon
 Stingmon -> Infermon, Paildramon, Okuwamon
-Socerimon -> ???, Piximon, Wisemon
-Tankmon -> Andromon, ???, CannonBeemon, Knightmon
+Socerimon -> Antylamon, Piximon, Wisemon
+Tankmon -> Andromon, Gigadramon, CannonBeemon, Knightmon
 Tyrannomon -> Mamemon, Megadramon, MetalGreymon(Blue), MetalTyrannomon
-Gatomon -> Angewomon, Lillymon, ???
+Gatomon -> Angewomon, Lillymon, Silphymon
 Devimon -> BlueMeramon, Infermon, MetalGreymon(Blue), Myotismon
 Togemon -> MachGaogamon, Lillymon, Pumpkinmon
 Dorugamon -> RizeGreymon, DoruGreymon, Chirinmon
-Nanimon -> ???, SuperStarmon, Meteormon
+Nanimon -> Digitamamon, SuperStarmon, Meteormon
 Numemon -> BlackKingNumemon, Etemon, Monzaemon
 Birdramon -> AeroVeedramon, Garudamon, Chirinmon, Crowmon
 Bakemon -> BlueMeramon, Pumpkinmon, Myotismon, LadyDevimon
 Veedramon -> AeroVeedramon, Cyberdramon, MetalTyrannomon, WarGrowlmon
 PlatinumSukamon -> Etemon, MetalMamemon, Vademon
 BlackGatomon -> Cyberdramon, Knightmon, LadyDevimon, WereGarurumon(Blk)
-Vegiemon -> ???, Lilamon, MegaKabuterimon
-Peckmon -> ???, Piximon, Crowmon
-Meramon -> BlueMeramon, ???, Mamemon, Panjyamon
+Vegiemon -> Digitamamon, Lilamon, MegaKabuterimon
+Peckmon -> Antylamon, Piximon, Crowmon
+Meramon -> BlueMeramon, SkullMeramon, Mamemon, Panjyamon
 Frigimon -> Zudomon, Angewomon, Monzaemon
 Leomon -> GrapLeomon, MetalGreymon, Meteormon, Panjyamon
 Reppamon -> Rapidmon, Piximon, Chirinmon
 Waspmon -> CannonBeemon, Rapidmon, MegaKabuterimon, Okuwamon
-MegaKabuterimon
-???
-Andromon -> ???, ???, ???
-Meteormon -> ???, ???, ???
-Infermon -> ???, ???, ???
-Myotismon -> ???, ???, ???
-AeroVeedramon -> ???, ???, ???
-Etemon -> ???, ???, PlatinumNumemon
-Angewomon -> ???, ???, ???, ???
-Okuwamon -> ???, ???, ???
-Garudamon -> ???, ???, ???
-???
-CannonBeemon -> ???, ???, ???
-GrapLeomon -> ???, ???, ???
-Cyberdramon -> ???, ???, ???
-???
-Cherrymon -> ???, ???, ???
-???
-SuperStarmon -> ???, ???, PlatinumNumemon
-SkullGreymon -> ???, ???, ???
-Zudomon -> MetalGarurumon, ???, ???
-Taomon -> ???, ???, ???
-Chirinmon -> MetalGarurumon, ???, ???
-???
-???
-ShogunGekomon -> ???, ???, ???
-DoruGreymon -> ???, ???, ???
-Knightmon -> ???, ???, ???
-Datamon -> ???, MetalGarurumon(Blk), ???
+MegaKabuterimon -> GranKuwagamon, Magnadramon, HerculesKabuterimon
+Antylamon -> Kerpymon(Good), Diaboromon, Dianamon, Kerpymon(Blk)
+Andromon -> Craniamon, HiAndromon, TigerVespamon
+Meteormon -> Ebemon, MetalEtemon, Dianamon
+Infermon -> Beelzemon, Diaboromon, VenomMyotismon
+Myotismon -> Barbamon, Piedmon, VenomMyotismon
+AeroVeedramon -> Ravemon, Dynasmon, UlforceVeedramon
+Etemon -> MetalEtemon, Piedmon, PlatinumNumemon
+Angewomon -> Magnadramon, Ophanimon, Mastemon, Valkyrimon
+Okuwamon -> Diaboromon, GranKuwagamon, HerculesKabuterimon
+Garudamon -> Hououmon, Justimon, Ravemon
+Gigadramon -> MetalSeadramon, Machinedramon, GroundLocomon, Darkdramon
+CannonBeemon -> MegaGargomon, GroundLocomon, TigerVespamon
+GrapLeomon -> BanchoLeomon, Leopardmon, SaberLeomon
+Cyberdramon -> Justimon, Titamon, ??? -> GC7(Alphamon)
+Shakkoumon -> Kerpymon(Good), Vikemon, ChaosGallantmon
+Cherrymon -> GranKuwagamon, Kuzuhamon, Puppetmon
+Silphymon -> Dynasmon, Hououmon, Sakuyamon, Valkyrimon
+SuperStarmon -> Justimon, Gankoomon, PlatinumNumemon
+SkullGreymon -> Creepymon, ShineGreymon, Titamon
+Zudomon -> MetalGarurumon, MarineAngemon, Vikemon
+Taomon -> Dianamon, Kuzuhamon, Sakuyamon
+Chirinmon -> MetalGarurumon, Seraphimon, Kentaurosmon
+Digitamamon -> Minervamon, Belphemon SM, Titamon
+SkullMeramon -> Gankoomon, Beelzemon, Boltmon
+ShogunGekomon -> Plesiomon, Leviamon, Vikemon
+DoruGreymon -> ???, Examon, Kentaurosmon -> GC7(Alphamon)
+Knightmon -> Craniamon, Leopardmon, Crusadermon
+Datamon -> Machinedramon, MetalGarurumon(Blk), GroundLocomon
 Paildramon -> Imperialdramon DM
-Panjyamon -> ???, ???, MirageGaogamon
-Pumpkinmon -> ???, ???, ???
-Piximon -> ???, ???, ???
-BlackKingNumemon -> PlatinumNumemon, ???, ???
-BlueMeramon -> ???, ???, ???, ???
-Vademon -> ???, ???, ???
-Whamon -> ???, ???, ???
-MagnaAngemon -> ???, ???, ???, ???
-MachGaogamon -> ???, MirageGaogamon, ???
-Mamemon -> ???, ???, WarGreymon
-MegaSeadramon -> ???, ???, ???
-Megadramon -> BlackWarGreymon, ???, ???
-WarGrowlmon -> ???, ???, RustTyranomon, ???
+Panjyamon -> BanchoLeomon, SaberLeomon, MirageGaogamon
+Pumpkinmon -> Boltmon, Puppetmon, Rosemon
+Piximon -> Hououmon, MarineAngemon, Ophanimon
+BlackKingNumemon -> PlatinumNumemon, MetalEtemon, PrinceMamemon
+BlueMeramon -> Barbamon, Boltmon, Creepymon, Darkdramon
+Vademon -> Ebemon, HerculesKabuterimon, HiAndromon
+Whamon -> Plesiomon, MarineAngemon, MetalSeadramon
+MagnaAngemon -> ShineGreymon, Crusadermon, Seraphimon, Valkyrimon
+MachGaogamon -> BanchoLeomon, MirageGaogamon, MegaGargomon
+Mamemon -> Puppetmon, PrinceMamemon, WarGreymon
+MegaSeadramon -> Leviamon, MetalSeadramon, Plesiomon
+Megadramon -> BlackWarGreymon, Machinedramon, UlforceVeedramon
+WarGrowlmon -> ???, ChaosGallantmon, RustTyranomon, Darkdramon -> GC7(Gallantmon)
 MetalGreymon -> RustTyranomon, Gaiomon, WarGreymon
-MetalGreymon(Blue) -> BlackWarGreymon, Gaiomon, WarGreymon, ???
-MetalTyrannomon -> BlackWarGreymon, ???, RustTyranomon
-MetalMamemon -> ???, ???, ???
-Monzaemon -> ???, ???, ???
-Crowmon -> ???, ???, ???
-RizeGreymon -> ???, Gaiomon, ???
-Lilamon -> ???, ???, ???
-Rapidmon -> ???, ???, MetalGarurumon(Blk)
-Lillymon -> ???, ???, ???
-???
-LadyDevimon -> ???, ???, ???
+MetalGreymon(Blue) -> BlackWarGreymon, Gaiomon, WarGreymon, Kerpymon(Blk)
+MetalTyrannomon -> BlackWarGreymon, ???, RustTyranomon -> GC7(Gallantmon)
+MetalMamemon -> Ebemon, HiAndromon, PrinceMamemon
+Monzaemon -> Minervamon, Sakuyamon, SaberLeomon
+Crowmon -> Minervamon, Ravemon, Kuzuhamon
+RizeGreymon -> Examon, Gaiomon, ShineGreymon
+Lilamon -> Lilithmon, Lotosmon, Rosemon
+Rapidmon -> MegaGargomon, TigerVespamon, MetalGarurumon(Blk)
+Lillymon -> Magnadramon, Lotosmon, Rosemon
+Lucemon FM -> Lucemon SM
+LadyDevimon -> Lilithmon, Lotosmon, Mastemon
 WereGarurumon -> MetalGarurumon, MetalGarurumon(Blk), MirageGaogamon
-WereGarurumon(Blk) -> MetalGarurumon(Blk), ???, ???
-Wisemon -> ???, ???, ???
+WereGarurumon(Blk) -> MetalGarurumon(Blk), Minervamon, BanchoLeomon
+Wisemon -> VenomMyotismon, Belphemon SM, Piedmon
 ???
-???
-???
+UlforceVeedramon
+Ebemon
 Imperialdramon DM -> ???, Imperialdramon FM
 Imperialdramon FM -> ???, Imperialdramon DM
-???
-???
-WarGreymon -> ???
-???
-???
+Vikemon
+VenomMyotismon
+WarGreymon -> Omnimon
+Examon
+Ophanimon
 Gaiomon
+ChaosGallantmon
+Gankoomon
+Kuzuhamon
+GranKuwagamon
+GroundLocomon
+Craniamon
+Kerpymon(Good)
+SaberLeomon
+Sakuyamon
+Jesmon
+ShineGreymon -> ShineGreymon BM
+Justimon
+Kentaurosmon
+Seraphimon
+MegaGargomon
+TigerVespamon
+Titamon
+Dianamon
+Diaboromon
+Creepymon
 ???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
+Dynasmon
+Leopardmon -> Leopardmon LM
+Leopardmon LM -> Leopardmon
+HiAndromon
+Barbamon
+BanchoLeomon -> Chaosmon
+Piedmon
+Puppetmon
 PlatinumNumemon
-BlackWarGreymon -> ???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-MirageGaogamon -> ???
-???
-???
-MetalGarurumon -> ???
-MetalGarurumon(Blk) -> ???
-???
+BlackWarGreymon -> Omnimon Zwart
+PrinceMamemon
+Plesiomon
+HerculesKabuterimon
+Beelzemon -> Beelzemon BM
+Belphemon SM -> Belphemon RM
+Hououmon
+Magnadramon
+Boltmon
+Mastemon
+MarineAngemon
+Minervamon
+MirageGaogamon -> MirageGaogamon BM
+Machinedramon
+MetalEtemon
+MetalGarurumon -> Omnimon
+MetalGarurumon(Blk) -> Omnimon Zwart
+MetalSeadramon
 RustTyranomon
+Leviamon
+Lilithmon
+Ravemon -> Ravemon BM
+Crusadermon
+Rosemon -> Rosemon BM
+Lotosmon
 ???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
-???
+Omnimon
+Omnimon Zwart
+Belphemon RM -> Belphemon SM
+Lucemon SM
+Flamedramon
+Magnamon
+Rapidmon(Armor)
+Kerpymon(Blk)
+Beelzemon BM
+Darkdramon -> Chaosmon
+Chaosmon
+Valkyrimon
+ShineGreymon BM
+MirageGaogamon BM
+Ravemon BM
+Rosemon BM
