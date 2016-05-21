@@ -1,6 +1,5 @@
-module DigimonService
-  class SearchPath
-    attr_reader :from, :to, :mark, :max_depth, :allowed, :ban, :all
+module DigimonSleuth
+  class PathSearcher
 
     def self.execute(line)
       args = line.split(" -- ")
@@ -12,10 +11,6 @@ module DigimonService
         case opt.upcase
         when "DEPTH"
           opts[:max_depth] = value.to_i
-        when "ONLY"
-          opts[:allowed] = value.split(", ")
-        when "EXCEPT"
-          opts[:ban] = value.split(", ")
         when "ALL"
           opts[:all] = true
         end
@@ -66,6 +61,8 @@ module DigimonService
     end
 
     private
+
+    attr_reader :from, :to, :mark, :max_depth, :allowed, :ban, :all
 
     def add(queue, digimon, path = "")
       queue << [digimon, "#{path} -> #{digimon.name}"]

@@ -1,7 +1,7 @@
 #! /usr/bin/env ruby
 
+$LOAD_PATH.unshift(File.expand_path('../../lib', __FILE__))
 require 'digimon_sleuth'
-#require_relative '../lib/digimon_sleuth.rb'
 
 while (command = gets&.strip).downcase != "exit"
   begin
@@ -10,11 +10,9 @@ while (command = gets&.strip).downcase != "exit"
 
     case command.downcase
     when "path"
-      paths = DigimonService::SearchPath.execute(args)
+      paths = DigimonSleuth.search_path(args)
       puts "Found #{paths.count} paths:"
       puts paths
-    when "class"
-      puts Digimon.find(args).klass
     else
       puts "Unknown command '#{command}'"
     end
