@@ -3,25 +3,14 @@
 # digimon_sleuth
 Digimon Cyber Sleuth simple know how code.
 
-## Get Started
-Install RVM
-
+## Installing
 ```
-curl -L get.rvm.io | bash -s stable
-source ~/.bash_profile
+gem install digimon_sleuth
 ```
 
-Then run `rvm requirements` and follow the instructions
-
-Install Ruby 2.3.0
-
+## Start
 ```
-rvm install 2.3.0
-```
-
-## Start Program
-```
-./digimon
+digimon_sleuth
 ```
 
 ## Feature
@@ -33,6 +22,7 @@ PATH Agumon TO Gabumon
 ```
 Response:
 ```
+Found 4 paths:
 Agumon -> GeoGreymon -> RizeGreymon -> Dorugamon -> Gabumon
 Agumon -> Meramon -> Panjyamon -> Garurumon -> Gabumon
 Agumon -> Sukamon -> Etemon -> Numemon -> Gabumon
@@ -41,38 +31,59 @@ Agumon -> Sukamon -> Elecmon -> Garurumon -> Gabumon
 Available options
 ```
 ALL #display all path
-EXCEPT #don't involve particular level(s)
-ONLY #only involve particulas level(s)
-DEPTH #max evolve needed
+DEPTH #max digivolve/dedigivolve needed
 ```
 Command:
 ```
-PATH Agumon TO Gabumon -- ALL -- EXCEPT Mega,  Training II
+PATH Agumon TO Gabumon -- ALL -- DEPTH 8
 ```
 Response:
 ```
+Found 46 paths:
 Agumon -> GeoGreymon -> RizeGreymon -> Dorugamon -> Gabumon
 Agumon -> Meramon -> Panjyamon -> Garurumon -> Gabumon
+Agumon -> Tyrannomon -> MetalTyrannomon -> Veedramon -> Gabumon
 Agumon -> Sukamon -> Etemon -> Numemon -> Gabumon
 Agumon -> Sukamon -> Elecmon -> Garurumon -> Gabumon
-Agumon -> GeoGreymon -> RizeGreymon -> ExVeemon -> Veemon -> Veedramon -> Gabumon
-Agumon -> GeoGreymon -> RizeGreymon -> Dorugamon -> Gabumon -> Veedramon -> Gabumon
+Agumon -> GeoGreymon -> Gigadramon -> Growlmon -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> GeoGreymon -> RizeGreymon -> ExVeemon -> Veemon -> Tsunomon -> Gabumon
 Agumon -> GeoGreymon -> RizeGreymon -> Dorugamon -> Gabumon -> Frigimon -> Gabumon
+Agumon -> GeoGreymon -> RizeGreymon -> Dorugamon -> Gabumon -> Tsunomon -> Gabumon
 Agumon -> GeoGreymon -> SkullGreymon -> Ankylomon -> Gomamon -> Frigimon -> Gabumon
-Agumon -> GeoGreymon -> Guilmon -> Growlmon -> WarGrowlmon -> Veedramon -> Gabumon
-Agumon -> Greymon -> MetalGreymon -> Growlmon -> WarGrowlmon -> Veedramon -> Gabumon
+Agumon -> GeoGreymon -> Guilmon -> Growlmon -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> GeoGreymon -> Guilmon -> Greymon(Blue) -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> Greymon -> MetalGreymon -> Growlmon -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> Greymon -> MetalGreymon(Blue) -> Greymon(Blue) -> Goblimon -> Tsunomon -> Gabumon
 Agumon -> Greymon -> SkullGreymon -> Ankylomon -> Gomamon -> Frigimon -> Gabumon
 Agumon -> Meramon -> BlueMeramon -> Garurumon(Blk) -> Gabumon(Blk) -> Frigimon -> Gabumon
+Agumon -> Meramon -> BlueMeramon -> Garurumon(Blk) -> Gabumon(Blk) -> Tsunomon -> Gabumon
+Agumon -> Meramon -> SkullMeramon -> Ogremon -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> Meramon -> Panjyamon -> SaberLeomon -> Monzaemon -> Frigimon -> Gabumon
 Agumon -> Meramon -> Panjyamon -> Garurumon -> Zudomon -> Frigimon -> Gabumon
-Agumon -> Meramon -> Panjyamon -> Garurumon -> Gabumon -> Veedramon -> Gabumon
 Agumon -> Meramon -> Panjyamon -> Garurumon -> Gabumon -> Frigimon -> Gabumon
-Agumon -> Meramon -> Guilmon -> Growlmon -> WarGrowlmon -> Veedramon -> Gabumon
-Agumon -> Tyrannomon -> Agumon(Blk) -> Growlmon -> WarGrowlmon -> Veedramon -> Gabumon
-Agumon -> Tyrannomon -> Guilmon -> Growlmon -> WarGrowlmon -> Veedramon -> Gabumon
-Agumon -> Sukamon -> Etemon -> Numemon -> Gabumon -> Veedramon -> Gabumon
+Agumon -> Meramon -> Panjyamon -> Garurumon -> Gabumon -> Tsunomon -> Gabumon
+Agumon -> Meramon -> Guilmon -> Growlmon -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> Meramon -> Guilmon -> Greymon(Blue) -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> Tyrannomon -> MetalGreymon(Blue) -> Greymon(Blue) -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> Tyrannomon -> MetalTyrannomon -> Growlmon -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> Tyrannomon -> MetalTyrannomon -> Veedramon -> Gabumon -> Frigimon -> Gabumon
+Agumon -> Tyrannomon -> MetalTyrannomon -> Veedramon -> Gabumon -> Tsunomon -> Gabumon
+Agumon -> Tyrannomon -> MetalTyrannomon -> Veedramon -> Veemon -> Tsunomon -> Gabumon
+Agumon -> Tyrannomon -> MetalTyrannomon -> Veedramon -> Salamon -> Frigimon -> Gabumon
+Agumon -> Tyrannomon -> Agumon(Blk) -> Growlmon -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> Tyrannomon -> Agumon(Blk) -> Greymon(Blue) -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> Tyrannomon -> Guilmon -> Growlmon -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> Tyrannomon -> Guilmon -> Greymon(Blue) -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> Sukamon -> SuperStarmon -> Nanimon -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> Sukamon -> Etemon -> Numemon -> Monzaemon -> Frigimon -> Gabumon
 Agumon -> Sukamon -> Etemon -> Numemon -> Gabumon -> Frigimon -> Gabumon
+Agumon -> Sukamon -> Etemon -> Numemon -> Gabumon -> Tsunomon -> Gabumon
 Agumon -> Sukamon -> Elecmon -> Garurumon -> Zudomon -> Frigimon -> Gabumon
-Agumon -> Sukamon -> Elecmon -> Garurumon -> Gabumon -> Veedramon -> Gabumon
 Agumon -> Sukamon -> Elecmon -> Garurumon -> Gabumon -> Frigimon -> Gabumon
+Agumon -> Sukamon -> Elecmon -> Garurumon -> Gabumon -> Tsunomon -> Gabumon
+Agumon -> Sukamon -> Elecmon -> Nanimon -> Goblimon -> Tsunomon -> Gabumon
 Agumon -> Sukamon -> Elecmon -> Garurumon(Blk) -> Gabumon(Blk) -> Frigimon -> Gabumon
+Agumon -> Sukamon -> Elecmon -> Garurumon(Blk) -> Gabumon(Blk) -> Tsunomon -> Gabumon
+Agumon -> Koromon -> Guilmon -> Growlmon -> Goblimon -> Tsunomon -> Gabumon
+Agumon -> Koromon -> Guilmon -> Greymon(Blue) -> Goblimon -> Tsunomon -> Gabumon
 ```

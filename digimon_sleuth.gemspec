@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name        = 'digimon_sleuth'
-  spec.version     = '0.0.2'
+  spec.version     = '0.0.3'
   spec.date        = '2016-05-21'
   spec.summary     = "Digimon Cyber Sleuth!"
   spec.description = "A simple gem"

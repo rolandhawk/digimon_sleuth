@@ -53,7 +53,7 @@ module DigimonSleuth
           next_queue = []
           depth += 1
 
-          return result if too_depth? || finish?(result)
+          return result if too_depth?(depth) || finish?(result)
         end
       end
 
@@ -72,7 +72,7 @@ module DigimonSleuth
       !mark[digimon.name] && (allowed.empty? || allowed.include?(digimon.klass.downcase)) && (ban.empty? || !ban.include?(digimon.klass.downcase))
     end
 
-    def too_depth?
+    def too_depth?(depth)
       max_depth && depth >= max_depth
     end
 
